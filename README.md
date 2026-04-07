@@ -26,18 +26,18 @@ My research interests lie at the intersection of machine learning, radar sensing
 
 I am particularly interested in integrated sensing and communications and electromagnetic-based signal processing.
 
-<table><tr><td valign="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mattiafabiani&theme=holi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattiafabiani&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div> -->
-
-</td><td valign="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiafabiani&hide_border=true&theme=holi" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=mattiafabiani&theme=holi&show_icons=true&count_private=true&hide_border=true" width="100%" />
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=mattiafabiani&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiafabiani&hide_border=true&theme=holi" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>  
 
