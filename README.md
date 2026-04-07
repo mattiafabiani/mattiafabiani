@@ -30,12 +30,10 @@ I am particularly interested in integrated sensing and communications and electr
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-stats-one.vercel.app/api?username=mattiafabiani&theme=holi&show_icons=true&count_private=true" width="100%" />
-      <br/><br/>
-      <img src="https://github-readme-stats-one.vercel.app/api?username=mattiafabiani&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
     </td>
-    <!-- <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=mattiafabiani&hide_border=true&theme=holi" width="100%" />
-    </td> -->
+    </td>
   </tr>
 </table>
 
