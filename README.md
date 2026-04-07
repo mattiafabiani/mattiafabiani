@@ -29,13 +29,13 @@ I am particularly interested in integrated sensing and communications and electr
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=mattiafabiani&theme=holi&show_icons=true&count_private=true&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats-one.vercel.app/api?username=mattiafabiani&theme=holi&show_icons=true&count_private=true" width="100%" />
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=mattiafabiani&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%" />
+      <img src="https://github-readme-stats-one.vercel.app/api?username=mattiafabiani&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
     </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiafabiani&hide_border=true&theme=holi" width="100%" />
-    </td>
+    <!-- <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=mattiafabiani&hide_border=true&theme=holi" width="100%" />
+    </td> -->
   </tr>
 </table>
 
